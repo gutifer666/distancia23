@@ -4,7 +4,7 @@
  * 
  * Descripción: Clase con los métodos básicos de una calculadora.
  * @author : Francisco Javier Gutiérrez Pérez
- * @version : 1.0
+ * @version : 2.0
  */
 
 /**
